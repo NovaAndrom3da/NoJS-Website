@@ -1,0 +1,36 @@
+#body, #html {
+  margin: 0px;;
+}
+
+#menu {
+  height: 60px;
+  
+}
+
+.menu-button {
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  height: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.menu-button:hover {
+  background-color: #aaaaaa;
+}
+
+.menu-button-selected {
+  border-bottom: 4px solid cornflowerblue;
+}
+
+#header {
+  background-color: #000000;
+  color: #ffffff;
+  height: 400px;
+  width: 100%;
+  padding-top: 8px;
+}
+
+#title {
+  margin: 0px;
+}

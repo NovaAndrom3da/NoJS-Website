@@ -1,0 +1,7 @@
+{
+  "host": true,
+  "port": 80,
+  "proxy": {
+    "/repo": "nojs-repo.vercel.app"
+  }
+}
